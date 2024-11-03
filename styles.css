@@ -121,3 +121,10 @@ footer {
     background-color: #d17fb6;
     color: white;
 }
+
+footer img {
+    width: 50px; /* Ajusta el tamaño según prefieras */
+    height: auto; /* Mantiene la proporción de la imagen */
+    margin: 10px; /* Espaciado alrededor de la imagen */
+    display: block; /* Centra la imagen horizontalmente si es el único elemento en el footer */
+}
